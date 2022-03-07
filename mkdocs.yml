@@ -1,5 +1,8 @@
-site_name: BinBook Sixth Edition
-site_url: https://binbook.regelkun.de
+site_name: Rules Test
+site_url: https://mschwieger.github.io/rules/
+repo_url: https://github.com/mschwieger/rules
+repo_name: mschwieger/rules
+edit_uri: edit/main/docs/
 theme:
     name: material
     palette:
