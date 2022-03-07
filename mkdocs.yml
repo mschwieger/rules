@@ -1,0 +1,81 @@
+site_name: BinBook Sixth Edition
+site_url: https://binbook.regelkun.de
+theme:
+    name: material
+    palette:
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          primary: blue
+          toggle:
+            icon: material/toggle-switch-off-outline
+            name: Switch to dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: indigo
+          toggle:
+            icon: material/toggle-switch
+            name: Switch to light mode
+    features:
+        - navigation.instant
+        # - navigation.tabs
+        # - navigation.tabs.sticky
+        - navigation.tracking
+        # - navigation.sections
+        - navigation.expand
+        - toc.follow
+    plugins:
+        - search:
+            lang: en
+        - git-revision-date-localized:
+            enable_creation_date: false 
+            fallback_to_build_date: false
+            type: iso_datetime
+        - privacy:
+            externals: bundle
+
+markdown_extensions:
+    - toc:
+        permalink: "#"
+    - admonition
+    - tables
+    - attr_list
+    - def_list
+    - md_in_html
+    - meta
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.details
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.tabbed:
+        alternate_style: true
+
+extra_css:
+  - stylesheets/extra.css
+  
+# extra:
+#   analytics: 
+#     feedback:
+#       title: Was this page helpful?
+#       ratings:
+#         - icon: material/emoticon-happy-outline
+#           name: This page was helpful
+#           data: 1
+#           note: >-
+#             Thanks for your feedback!
+#         - icon: material/emoticon-sad-outline
+#           name: This page could be improved
+#           data: 0
+#           note: >- 
+#             Thanks for your feedback! Help us improve this page by
+#             using our <a href="..." target=_blank>feedback form</a>.
+
