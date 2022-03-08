@@ -19,7 +19,7 @@ Werden dem Referee zwei oder mehrere Live Ball Fouls durch dasselbe Team gemelde
 
 ### Artikel 4. Aufhebende Fouls
 
-Werden dem Referee Live Ball Fouls beider Teams mitgeteilt, heben sich die Fouls auf und der Down wird wiederholt (A.R. [10-1-4-I](#ar-10-1-4-i) und (-VII)[#ar-10-1-4-vii]). Jeder Spieler, der ein Foul verursacht, dessen Strafe die Disqualifizierung vorschreibt, muss das Spiel verlassen.
+Werden dem Referee Live Ball Fouls beider Teams mitgeteilt, heben sich die Fouls auf und der Down wird wiederholt (A.R. [10-1-4-I](#ar-10-1-4-i) und [-VII](#ar-10-1-4-vii)). Jeder Spieler, der ein Foul verursacht, dessen Strafe die Disqualifizierung vorschreibt, muss das Spiel verlassen.
 
 ***Ausnahmen:***
 
