@@ -30,43 +30,43 @@ Werden dem Referee Live Ball Fouls beider Teams mitgeteilt, heben sich die Fouls
 
 ??? abstract "A.R."
 
-    === "A.R. 10-1-4-I"
+    === "10-1-4-I"
         Bei einem Kickoff durch Team A begeht Team B ein Foul, bevor der unberührte Ball zwischen den Goallines ins Aus geht.  
         
         ??? check "Regelung:"
             Die Fouls heben sich auf. Team A wiederholt den Kickoff vom Previous Spot.
     
-    === "A.R. 10-1-4-II"
+    === "10-1-4-II"
         Bei einem Kickoff durch Team Avon dessen 35-Meterlinie begeht Team B ein Foul, nachdem der unberührte Ball zwischen den Goallines ins Aus geht.  
 
         ??? check "Regelung:"
             Team B kann eine Wiederholung des Kickoffs wählen, wodurch Team Avon dessen 45-Meterlinie erneut einen Free Kick durchführt. Wenn Team B den Ball behält, bekommt es diesen an seiner 20-Meterlinie nach einer 15-Meterstrafe von seiner 35-Meterlinie oder 15 Meter hinter dem Punkt, an den die 5-Meterstrafe gegen Team A den Ball bringt (Regel 6-1-8 und 10-1-6).
 
-    === "A.R. 10-1-4-III"
+    === "10-1-4-III"
         Team A befindet sich vor dem Snap in einer illegalen Formation. A-1's Vorwärtspass wird von B-1 abgefangen, der fünf Meter advanct und getackelt wird. Team B clippt während B-1 advanct.  
     
-        ??? check Regelung:
+        ??? check "Regelung:"
             Team B hat die Option, aufhebende Fouls zu akzeptieren oder die Aufhebung der Fouls abzulehnen, um den Ball zu behalten, nachdem dessen Strafe vollständig ist. Im letzteren Fall kann Team A die Strafe für Team B's Clipping-Foul annehmen oder ablehnen.
 
-    === "A.R. 10-1-4-IV"
+    === "10-1-4-IV"
         A-1 wirft einen illegalen Vorwärtspass und Team B befindet sich beim Snap in der neutralen Zone. B-23 fängt den Pass ab und B-10 clippt beim Return. B-23 wird im Spielfeld getackelt.  
         
         ??? check "Regelung:"
             Keine Wahlmöglichkeit. Die Fouls heben sich auf und der Down wird wiederholt. Team B kann die Aufhebung der Fouls nicht wählen, da es gefoult hat, bevor es in Ballbesitz kam.
 
-    === "A.R. 10-1-4-V"
+    === "10-1-4-V"
         A-1's Vorwärtspass wird von B-1 abgefangen, der advanct und fumbelt. B-2 recovert den Ball und advanct ihn fünf weitere Meter. Team A foult während oder nach dem Down und Team B foult während des Laufes von B-2 oder während des Fumbles.
         
         ??? check "Regelung:"
             Wenn Team A's Foul ein Live Ball Foul war, kann Team B wählen, dass sich die Fouls aufheben und den Down wiederholen lassen oder eine Möglichkeit wählen, den Ball nach Vervollständigung dessen Strafe zu behalten. Wenn Team A's Foul ein Dead Ball Foul war, behält Team B nach Durchführung beider Strafen den Ball.
 
-    === "A.R. 10-1-4-VI"
+    === "10-1-4-VI"
         Team A's legaler Vorwärtspass wird von B-45 abgefangen, der einige Meter advanct. Während des Returns clippt B-23 und A-78 tackelt B-45, indem er an dessen Helmgitter zieht oder dreht.  
         
         ??? check "Regelung:"
             Da Team B vor dem Ballbesitzwechsel nicht gefoult hat, kann es die Aufhebung der Fouls wählen oder den Ballbesitz behalten, nachdem die Clipping-Strafe vervollständigt wurde.
 
-    === "A.R. 10-1-4-VII"
+    === "10-1-4-VII"
         A-1 empfängt den Snap, während er auf der Endlinie steht. Team B ist Offside.  
         
         ??? check "Regelung:"
