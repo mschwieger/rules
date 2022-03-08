@@ -28,18 +28,18 @@ Werden dem Referee Live Ball Fouls beider Teams mitgeteilt, heben sich die Fouls
 3.  Regel 8-3-4-c und 3-1-3-g-3 (während eines Try oder während Extraperioden, nachdem Team B Ballbesitz erlangt hat).
 
 
-???+ note "A.R."
+??? abstract "A.R."
 
     === "A.R. 10-1-4-I"
         Bei einem Kickoff durch Team A begeht Team B ein Foul, bevor der unberührte Ball zwischen den Goallines ins Aus geht.  
         
-        ???+ check "Regelung:"
+        ??? check "Regelung:"
             Die Fouls heben sich auf. Team A wiederholt den Kickoff vom Previous Spot.
     
     === "A.R. 10-1-4-II"
         Bei einem Kickoff durch Team Avon dessen 35-Meterlinie begeht Team B ein Foul, nachdem der unberührte Ball zwischen den Goallines ins Aus geht.  
 
-        ???+ check "Regelung:"
+        ??? check "Regelung:"
             Team B kann eine Wiederholung des Kickoffs wählen, wodurch Team Avon dessen 45-Meterlinie erneut einen Free Kick durchführt. Wenn Team B den Ball behält, bekommt es diesen an seiner 20-Meterlinie nach einer 15-Meterstrafe von seiner 35-Meterlinie oder 15 Meter hinter dem Punkt, an den die 5-Meterstrafe gegen Team A den Ball bringt (Regel 6-1-8 und 10-1-6).
 
     === "A.R. 10-1-4-III"
@@ -51,13 +51,13 @@ Werden dem Referee Live Ball Fouls beider Teams mitgeteilt, heben sich die Fouls
     === "A.R. 10-1-4-IV"
         A-1 wirft einen illegalen Vorwärtspass und Team B befindet sich beim Snap in der neutralen Zone. B-23 fängt den Pass ab und B-10 clippt beim Return. B-23 wird im Spielfeld getackelt.  
         
-        ??? note "Regelung:"
+        ??? check "Regelung:"
             Keine Wahlmöglichkeit. Die Fouls heben sich auf und der Down wird wiederholt. Team B kann die Aufhebung der Fouls nicht wählen, da es gefoult hat, bevor es in Ballbesitz kam.
 
     === "A.R. 10-1-4-V"
         A-1's Vorwärtspass wird von B-1 abgefangen, der advanct und fumbelt. B-2 recovert den Ball und advanct ihn fünf weitere Meter. Team A foult während oder nach dem Down und Team B foult während des Laufes von B-2 oder während des Fumbles.
         
-        ??? checke "Regelung:"
+        ??? check "Regelung:"
             Wenn Team A's Foul ein Live Ball Foul war, kann Team B wählen, dass sich die Fouls aufheben und den Down wiederholen lassen oder eine Möglichkeit wählen, den Ball nach Vervollständigung dessen Strafe zu behalten. Wenn Team A's Foul ein Dead Ball Foul war, behält Team B nach Durchführung beider Strafen den Ball.
 
     === "A.R. 10-1-4-VI"
@@ -69,7 +69,7 @@ Werden dem Referee Live Ball Fouls beider Teams mitgeteilt, heben sich die Fouls
     === "A.R. 10-1-4-VII"
         A-1 empfängt den Snap, während er auf der Endlinie steht. Team B ist Offside.  
         
-        ??? note "Regelung:"
+        ??? check "Regelung:"
             Team A's Foul (im Aus beim Snap) hebt Team B's Offside auf und der Down wird wiederholt (***Beachte:*** Wenn Team B nicht Offside gewesen wäre, hätte Team B die Strafe wegen Team A's Foul oder einen Safety wählen können) (Regel 8-5-1-a).
 
 
